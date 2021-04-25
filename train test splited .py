@@ -10,7 +10,7 @@ import pandas as pd
 # In[17]:
 
 
-csv_location = "C:/Users/Mit/Downloads/mtechstudentdata (1).xlsx" 
+csv_location = "/mtechstudentdata (1).xlsx" 
 csv_location
 
 
