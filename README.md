@@ -13,7 +13,8 @@ my first machine learning model to test decision tree on student database
 
 ***train test split***
 
-- This model will devide the data into two parts -
+- This model will devide the data into two parts 
+
 	-1 trainingdata 
 	-2 testing 
 
